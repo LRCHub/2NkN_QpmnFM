@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "マネマネサイコトロピック",
+  "base_artist": "かいりきベア",
+  "createdAt": "2025-12-26T07:25:00.259616Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "マネマネサイコトロピック",
+      "artist": "かいりきベア",
+      "has_synced": false,
+      "path": "select/01_マネマネサイコトロピック_かいりきベア.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "マネマネサイコトロピック",
+      "artist": "かいりきベア feat. GUMI",
+      "has_synced": true,
+      "path": "select/02_マネマネサイコトロピック_かいりきベア_feat._GUMI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "マネマネサイコトロピック",
+      "artist": "Kairiki Bear feat. GUMI",
+      "has_synced": false,
+      "path": "select/03_マネマネサイコトロピック_Kairiki_Bear_feat._GUMI.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "マネマネサイコトロピック",
+      "artist": "Kairiki Bear",
+      "has_synced": false,
+      "path": "select/04_マネマネサイコトロピック_Kairiki_Bear.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "マネマネサイコトロピック",
+      "artist": "Kairikibear",
+      "has_synced": true,
+      "path": "select/05_マネマネサイコトロピック_Kairikibear.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "マネマネサイコトロピック",
+      "artist": "かいりきベア",
+      "has_synced": true,
+      "path": "select/06_マネマネサイコトロピック_かいりきベア.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "マネマネサイコトロピック",
+      "artist": "GUMI",
+      "has_synced": true,
+      "path": "select/07_マネマネサイコトロピック_GUMI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "マネマネサイコトロピック",
+      "artist": "かいりきベア",
+      "has_synced": false,
+      "path": "select/pl_01_マネマネサイコトロピック_かいりきベア.txt"
+    }
+  ]
+}
